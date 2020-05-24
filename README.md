@@ -1,6 +1,7 @@
-This is Todo List with a possibility to add, delete and mark tasks
+This is Todo List with a possibility to add, delete and mark task.
+You need to install npm with node-modules to run it.
 
-also,the more classic introduction:
+also, classic introduction is there:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
