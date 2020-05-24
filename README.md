@@ -1,3 +1,7 @@
+This is Todo List with a possibility to add, delete and mark tasks
+
+also,the more classic introduction:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
